@@ -1,0 +1,11 @@
+# Symfony
+/var
+/vendor
+/.env.local
+/.env.local.php
+/.env.test.local
+
+# Logs
+/log/*
+/php/*
+/docker-compose.override.yml
